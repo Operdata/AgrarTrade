@@ -25,21 +25,21 @@
                <li class='active'><a href='#'><span>Indice</span></a></li>
                <li class='has-sub'><a href='#'><span>Tierras</span></a>
                   <ul>
-                     <li><a href='#'><span>Venta</span></a></li>
-                     <li><a href='#'><span>Subasta</span></a></li>
+                      <li><a href='pages/tierras/venta.php'><span>Venta</span></a></li>
+                      <li><a href='pages/tierras/subasta.php'><span>Subasta</span></a></li>
                   </ul>
                </li>
                 <li class='has-sub'><a href='#'><span>Maquinaria</span></a>
                   <ul>
-                     <li><a href='#'><span>Alquiler</span></a></li>
-                     <li><a href='#'><span>Contratistas</span></a></li>
-                     <li><a href='#'><span>Compra primera/Segunda Mano</span></a></li>
+                      <li><a href='pages/maquinaria/alquiler.php'><span>Alquiler</span></a></li>
+                      <li><a href='pages/maquinaria/contratistas.php'><span>Contratistas</span></a></li>
+                      <li><a href='pages/maquinaria/prim_seg_mano.php'><span>Compra primera/Segunda Mano</span></a></li>
                   </ul>
                </li>
                <li class='has-sub'><a href='#'><span>Sobre Nosotros</span></a>
                   <ul>
-                     <li><a href='#'><span>Empresa</span></a></li>
-                     <li class='last'><a href='#'><span>Contacta con nosotros</span></a></li>
+                      <li><a href='pages/sob_nosotros/empresa.php'><span>Empresa</span></a></li>
+                      <li class='last'><a href='pages/sob_nosotros/cont_nos.php'><span>Contacta con nosotros</span></a></li>
                   </ul>
                </li>
             </ul>
