@@ -8,12 +8,7 @@
 
 ?>
 <!doctype html>
-<<<<<<< HEAD
-<html lang=''>
-<html lang=''>
-=======
 <html lang='es'>
->>>>>>> FETCH_HEAD
 <head>
    <meta charset='utf-8'>
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,11 +19,7 @@
    <title>AgrarTrade</title>
 </head>
 <body>
-<<<<<<< HEAD
-    
-=======
     <div class="content">
->>>>>>> FETCH_HEAD
         <div id='cssmenu'>
             <ul>
                <li class='active'><a href='#'><span>Indice</span></a></li>
@@ -56,11 +47,7 @@
         <div class="menu">
             
         </div>
-<<<<<<< HEAD
-    </div
-=======
     </div>
->>>>>>> FETCH_HEAD
 
 
 </body>
