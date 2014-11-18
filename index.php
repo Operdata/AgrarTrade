@@ -7,3 +7,49 @@
  */
 
 ?>
+<!doctype html>
+<html lang=''>
+<html lang=''>
+<head>
+   <meta charset='utf-8'>
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="css/menu/styles.css">
+   <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+   <script src="js/scripts/script.js"></script>
+   <title>AgrarTrade</title>
+</head>
+<body>
+    
+        <div id='cssmenu'>
+            <ul>
+               <li class='active'><a href='#'><span>Indice</span></a></li>
+               <li class='has-sub'><a href='#'><span>Tierras</span></a>
+                  <ul>
+                     <li><a href='#'><span>Venta</span></a></li>
+                     <li><a href='#'><span>Subasta</span></a></li>
+                  </ul>
+               </li>
+                <li class='has-sub'><a href='#'><span>Maquinaria</span></a>
+                  <ul>
+                     <li><a href='#'><span>Alquiler</span></a></li>
+                     <li><a href='#'><span>Contratistas</span></a></li>
+                     <li><a href='#'><span>Compra primera/Segunda Mano</span></a></li>
+                  </ul>
+               </li>
+               <li class='has-sub'><a href='#'><span>Sobre Nosotros</span></a>
+                  <ul>
+                     <li><a href='#'><span>Empresa</span></a></li>
+                     <li class='last'><a href='#'><span>Contacta con nosotros</span></a></li>
+                  </ul>
+               </li>
+            </ul>
+        </div>
+        <div class="menu">
+            
+        </div>
+    </div
+
+
+</body>
+</html>
